@@ -1,6 +1,6 @@
 # Trabajo práctico: SIMD
 
-A continuación se deja una copia de la sección enunciado del tp extraído del archivo del mismo nombre (`enunciado.pdf`). Para información sobre el contenido de cada carpeta leer dicho archivo:
+A continuación se deja una copia de la sección enunciado del tp extraído del archivo del mismo nombre (`doc/enunciado.pdf`). Para información sobre el contenido de cada carpeta leer dicho archivo. El informe que detalla las implementaciones propuestas se encuentra en `doc/informe_tp2_orga2.pdf`.
 
 ## Introducción
 
@@ -19,10 +19,8 @@ Los tres filtros a implementar se denominarán Ocultar,Descubrir y Zig-Zag. El p
 de filtros permitirán ocultar una imagen dentro de otra y recuperar la imagen oculta. El filtro
 Zig-Zag por su parte generar un efecto de corrimiento en la imagen.
 
+La carpeta `src/filters` contiene tanto las implementaciones en C como las de ASM.
+
 ## Objetivos
 - Aprendizaje del modelo SIMD; instrucciones y uso de registros XMMX.
 - Mediante experimentación, realizar medidas que permitan comparar la performance de los filtros escritos en C vs. los mismos escritos en ASM. Los resultados fueron explayados mediante la realización de un informe (`informe.pdf`).
-
---------------------------------------------------------------------------------------------------------------------------------
-
-La carpeta `src/filters` contiene tanto las implementaciones en C como las de ASM.
