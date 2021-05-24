@@ -1,6 +1,6 @@
 # Trabajo práctico: SIMD
 
-A continuación se deja una copia de la sección enunciado del tp extraído del archivo del mismo nombre (enunciado.pdf). Para información sobre el contenido de cada carpeta leer este archivo:
+A continuación se deja una copia de la sección enunciado del tp extraído del archivo del mismo nombre (`enunciado.pdf`). Para información sobre el contenido de cada carpeta leer dicho archivo:
 
 ## Introducción
 
